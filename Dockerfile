@@ -1,1 +1,1 @@
-From gpustack/gpustack:latest-cpu
+From gpustack/gpustack:main
